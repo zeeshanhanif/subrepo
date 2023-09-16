@@ -1,2 +1,2 @@
 # subrepo
-Test sub repo
+This is demo repository to act as submodule for another repository
